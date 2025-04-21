@@ -1,0 +1,33 @@
+D:\Ders\2.Dönem\Görsel Programlamaya Giriş\uygulamalar\Pasta Pişirme Süreç Uygulaması\Pasta Pişirme Süreç Uygulaması\bin\Debug\net8.0-windows\Pasta Pişirme Süreç Uygulaması.exe
+D:\Ders\2.Dönem\Görsel Programlamaya Giriş\uygulamalar\Pasta Pişirme Süreç Uygulaması\Pasta Pişirme Süreç Uygulaması\bin\Debug\net8.0-windows\Pasta Pişirme Süreç Uygulaması.deps.json
+D:\Ders\2.Dönem\Görsel Programlamaya Giriş\uygulamalar\Pasta Pişirme Süreç Uygulaması\Pasta Pişirme Süreç Uygulaması\bin\Debug\net8.0-windows\Pasta Pişirme Süreç Uygulaması.runtimeconfig.json
+D:\Ders\2.Dönem\Görsel Programlamaya Giriş\uygulamalar\Pasta Pişirme Süreç Uygulaması\Pasta Pişirme Süreç Uygulaması\bin\Debug\net8.0-windows\Pasta Pişirme Süreç Uygulaması.dll
+D:\Ders\2.Dönem\Görsel Programlamaya Giriş\uygulamalar\Pasta Pişirme Süreç Uygulaması\Pasta Pişirme Süreç Uygulaması\bin\Debug\net8.0-windows\Pasta Pişirme Süreç Uygulaması.pdb
+D:\Ders\2.Dönem\Görsel Programlamaya Giriş\uygulamalar\Pasta Pişirme Süreç Uygulaması\Pasta Pişirme Süreç Uygulaması\obj\Debug\net8.0-windows\Pasta_Pişirme_Süreç_Uygulaması.Form1.resources
+D:\Ders\2.Dönem\Görsel Programlamaya Giriş\uygulamalar\Pasta Pişirme Süreç Uygulaması\Pasta Pişirme Süreç Uygulaması\obj\Debug\net8.0-windows\Pasta Pişirme Süreç Uygulaması.csproj.GenerateResource.cache
+D:\Ders\2.Dönem\Görsel Programlamaya Giriş\uygulamalar\Pasta Pişirme Süreç Uygulaması\Pasta Pişirme Süreç Uygulaması\obj\Debug\net8.0-windows\Pasta Pişirme Süreç Uygulaması.GeneratedMSBuildEditorConfig.editorconfig
+D:\Ders\2.Dönem\Görsel Programlamaya Giriş\uygulamalar\Pasta Pişirme Süreç Uygulaması\Pasta Pişirme Süreç Uygulaması\obj\Debug\net8.0-windows\Pasta Pişirme Süreç Uygulaması.AssemblyInfoInputs.cache
+D:\Ders\2.Dönem\Görsel Programlamaya Giriş\uygulamalar\Pasta Pişirme Süreç Uygulaması\Pasta Pişirme Süreç Uygulaması\obj\Debug\net8.0-windows\Pasta Pişirme Süreç Uygulaması.AssemblyInfo.cs
+D:\Ders\2.Dönem\Görsel Programlamaya Giriş\uygulamalar\Pasta Pişirme Süreç Uygulaması\Pasta Pişirme Süreç Uygulaması\obj\Debug\net8.0-windows\Pasta Pişirme Süreç Uygulaması.csproj.CoreCompileInputs.cache
+D:\Ders\2.Dönem\Görsel Programlamaya Giriş\uygulamalar\Pasta Pişirme Süreç Uygulaması\Pasta Pişirme Süreç Uygulaması\obj\Debug\net8.0-windows\Pasta Pişirme Süreç Uygulaması.dll
+D:\Ders\2.Dönem\Görsel Programlamaya Giriş\uygulamalar\Pasta Pişirme Süreç Uygulaması\Pasta Pişirme Süreç Uygulaması\obj\Debug\net8.0-windows\refint\Pasta Pişirme Süreç Uygulaması.dll
+D:\Ders\2.Dönem\Görsel Programlamaya Giriş\uygulamalar\Pasta Pişirme Süreç Uygulaması\Pasta Pişirme Süreç Uygulaması\obj\Debug\net8.0-windows\Pasta Pişirme Süreç Uygulaması.pdb
+D:\Ders\2.Dönem\Görsel Programlamaya Giriş\uygulamalar\Pasta Pişirme Süreç Uygulaması\Pasta Pişirme Süreç Uygulaması\obj\Debug\net8.0-windows\Pasta Pişirme Süreç Uygulaması.genruntimeconfig.cache
+D:\Ders\2.Dönem\Görsel Programlamaya Giriş\uygulamalar\Pasta Pişirme Süreç Uygulaması\Pasta Pişirme Süreç Uygulaması\obj\Debug\net8.0-windows\ref\Pasta Pişirme Süreç Uygulaması.dll
+D:\Ders\2.Dönem\Görsel Programlamaya Giriş\uygulamalar(2024)\Pasta Pişirme Süreç Uygulaması\Pasta Pişirme Süreç Uygulaması\bin\Debug\net8.0-windows\Pasta Pişirme Süreç Uygulaması.exe
+D:\Ders\2.Dönem\Görsel Programlamaya Giriş\uygulamalar(2024)\Pasta Pişirme Süreç Uygulaması\Pasta Pişirme Süreç Uygulaması\bin\Debug\net8.0-windows\Pasta Pişirme Süreç Uygulaması.deps.json
+D:\Ders\2.Dönem\Görsel Programlamaya Giriş\uygulamalar(2024)\Pasta Pişirme Süreç Uygulaması\Pasta Pişirme Süreç Uygulaması\bin\Debug\net8.0-windows\Pasta Pişirme Süreç Uygulaması.runtimeconfig.json
+D:\Ders\2.Dönem\Görsel Programlamaya Giriş\uygulamalar(2024)\Pasta Pişirme Süreç Uygulaması\Pasta Pişirme Süreç Uygulaması\bin\Debug\net8.0-windows\Pasta Pişirme Süreç Uygulaması.dll
+D:\Ders\2.Dönem\Görsel Programlamaya Giriş\uygulamalar(2024)\Pasta Pişirme Süreç Uygulaması\Pasta Pişirme Süreç Uygulaması\bin\Debug\net8.0-windows\Pasta Pişirme Süreç Uygulaması.pdb
+D:\Ders\2.Dönem\Görsel Programlamaya Giriş\uygulamalar(2024)\Pasta Pişirme Süreç Uygulaması\Pasta Pişirme Süreç Uygulaması\obj\Debug\net8.0-windows\Pasta_Pişirme_Süreç_Uygulaması.Form1.resources
+D:\Ders\2.Dönem\Görsel Programlamaya Giriş\uygulamalar(2024)\Pasta Pişirme Süreç Uygulaması\Pasta Pişirme Süreç Uygulaması\obj\Debug\net8.0-windows\Pasta Pişirme Süreç Uygulaması.csproj.GenerateResource.cache
+D:\Ders\2.Dönem\Görsel Programlamaya Giriş\uygulamalar(2024)\Pasta Pişirme Süreç Uygulaması\Pasta Pişirme Süreç Uygulaması\obj\Debug\net8.0-windows\Pasta Pişirme Süreç Uygulaması.GeneratedMSBuildEditorConfig.editorconfig
+D:\Ders\2.Dönem\Görsel Programlamaya Giriş\uygulamalar(2024)\Pasta Pişirme Süreç Uygulaması\Pasta Pişirme Süreç Uygulaması\obj\Debug\net8.0-windows\Pasta Pişirme Süreç Uygulaması.AssemblyInfoInputs.cache
+D:\Ders\2.Dönem\Görsel Programlamaya Giriş\uygulamalar(2024)\Pasta Pişirme Süreç Uygulaması\Pasta Pişirme Süreç Uygulaması\obj\Debug\net8.0-windows\Pasta Pişirme Süreç Uygulaması.AssemblyInfo.cs
+D:\Ders\2.Dönem\Görsel Programlamaya Giriş\uygulamalar(2024)\Pasta Pişirme Süreç Uygulaması\Pasta Pişirme Süreç Uygulaması\obj\Debug\net8.0-windows\Pasta Pişirme Süreç Uygulaması.csproj.CoreCompileInputs.cache
+D:\Ders\2.Dönem\Görsel Programlamaya Giriş\uygulamalar(2024)\Pasta Pişirme Süreç Uygulaması\Pasta Pişirme Süreç Uygulaması\obj\Debug\net8.0-windows\Pasta Pişirme Süreç Uygulaması.dll
+D:\Ders\2.Dönem\Görsel Programlamaya Giriş\uygulamalar(2024)\Pasta Pişirme Süreç Uygulaması\Pasta Pişirme Süreç Uygulaması\obj\Debug\net8.0-windows\refint\Pasta Pişirme Süreç Uygulaması.dll
+D:\Ders\2.Dönem\Görsel Programlamaya Giriş\uygulamalar(2024)\Pasta Pişirme Süreç Uygulaması\Pasta Pişirme Süreç Uygulaması\obj\Debug\net8.0-windows\Pasta Pişirme Süreç Uygulaması.pdb
+D:\Ders\2.Dönem\Görsel Programlamaya Giriş\uygulamalar(2024)\Pasta Pişirme Süreç Uygulaması\Pasta Pişirme Süreç Uygulaması\obj\Debug\net8.0-windows\Pasta Pişirme Süreç Uygulaması.genruntimeconfig.cache
+D:\Ders\2.Dönem\Görsel Programlamaya Giriş\uygulamalar(2024)\Pasta Pişirme Süreç Uygulaması\Pasta Pişirme Süreç Uygulaması\obj\Debug\net8.0-windows\ref\Pasta Pişirme Süreç Uygulaması.dll
+D:\Ders\2.Dönem\Görsel Programlamaya Giriş\uygulamalar(2024)\Pasta Pişirme Süreç Uygulaması\Pasta Pişirme Süreç Uygulaması\obj\Debug\net8.0-windows\Pasta_Pişirme_Süreç_Uygulaması.Properties.Resources.resources

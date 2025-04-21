@@ -1,0 +1,23 @@
+C:\Users\seyma.cecen\source\repos\GorselApp\GorselApp\bin\Debug\GorselApp.exe.config
+C:\Users\seyma.cecen\source\repos\GorselApp\GorselApp\bin\Debug\GorselApp.exe
+C:\Users\seyma.cecen\source\repos\GorselApp\GorselApp\bin\Debug\GorselApp.pdb
+C:\Users\seyma.cecen\source\repos\GorselApp\GorselApp\obj\Debug\GorselApp.csproj.AssemblyReference.cache
+C:\Users\seyma.cecen\source\repos\GorselApp\GorselApp\obj\Debug\GorselApp.Form1.resources
+C:\Users\seyma.cecen\source\repos\GorselApp\GorselApp\obj\Debug\GorselApp.Properties.Resources.resources
+C:\Users\seyma.cecen\source\repos\GorselApp\GorselApp\obj\Debug\GorselApp.csproj.GenerateResource.cache
+C:\Users\seyma.cecen\source\repos\GorselApp\GorselApp\obj\Debug\GorselApp.csproj.CoreCompileInputs.cache
+C:\Users\seyma.cecen\source\repos\GorselApp\GorselApp\obj\Debug\GorselApp.exe
+C:\Users\seyma.cecen\source\repos\GorselApp\GorselApp\obj\Debug\GorselApp.pdb
+C:\Users\Mustafa\Desktop\GorselApp\GorselApp\GorselApp\obj\Debug\GorselApp.csproj.AssemblyReference.cache
+C:\Users\Mustafa\Desktop\GorselApp\GorselApp\GorselApp\obj\Debug\GorselApp.exe
+C:\Users\Mustafa\Desktop\GorselApp\GorselApp\GorselApp\obj\Debug\GorselApp.pdb
+D:\Ders\2.Dönem\Görsel Programlamaya Giriş\hocanın uygulamaları\GorselApp\GorselApp\GorselApp\bin\Debug\GorselApp.exe.config
+D:\Ders\2.Dönem\Görsel Programlamaya Giriş\hocanın uygulamaları\GorselApp\GorselApp\GorselApp\bin\Debug\GorselApp.exe
+D:\Ders\2.Dönem\Görsel Programlamaya Giriş\hocanın uygulamaları\GorselApp\GorselApp\GorselApp\bin\Debug\GorselApp.pdb
+D:\Ders\2.Dönem\Görsel Programlamaya Giriş\hocanın uygulamaları\GorselApp\GorselApp\GorselApp\obj\Debug\GorselApp.csproj.AssemblyReference.cache
+D:\Ders\2.Dönem\Görsel Programlamaya Giriş\hocanın uygulamaları\GorselApp\GorselApp\GorselApp\obj\Debug\GorselApp.Form1.resources
+D:\Ders\2.Dönem\Görsel Programlamaya Giriş\hocanın uygulamaları\GorselApp\GorselApp\GorselApp\obj\Debug\GorselApp.Properties.Resources.resources
+D:\Ders\2.Dönem\Görsel Programlamaya Giriş\hocanın uygulamaları\GorselApp\GorselApp\GorselApp\obj\Debug\GorselApp.csproj.GenerateResource.cache
+D:\Ders\2.Dönem\Görsel Programlamaya Giriş\hocanın uygulamaları\GorselApp\GorselApp\GorselApp\obj\Debug\GorselApp.csproj.CoreCompileInputs.cache
+D:\Ders\2.Dönem\Görsel Programlamaya Giriş\hocanın uygulamaları\GorselApp\GorselApp\GorselApp\obj\Debug\GorselApp.exe
+D:\Ders\2.Dönem\Görsel Programlamaya Giriş\hocanın uygulamaları\GorselApp\GorselApp\GorselApp\obj\Debug\GorselApp.pdb

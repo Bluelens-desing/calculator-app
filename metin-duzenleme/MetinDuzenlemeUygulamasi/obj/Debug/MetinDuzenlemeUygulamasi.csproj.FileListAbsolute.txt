@@ -1,0 +1,30 @@
+C:\Users\seyma.cecen\source\repos\MetinDuzenlemeUygulamasi\MetinDuzenlemeUygulamasi\bin\Debug\MetinDuzenlemeUygulamasi.exe.config
+C:\Users\seyma.cecen\source\repos\MetinDuzenlemeUygulamasi\MetinDuzenlemeUygulamasi\bin\Debug\MetinDuzenlemeUygulamasi.exe
+C:\Users\seyma.cecen\source\repos\MetinDuzenlemeUygulamasi\MetinDuzenlemeUygulamasi\bin\Debug\MetinDuzenlemeUygulamasi.pdb
+C:\Users\seyma.cecen\source\repos\MetinDuzenlemeUygulamasi\MetinDuzenlemeUygulamasi\obj\Debug\MetinDuzenlemeUygulamasi.csproj.AssemblyReference.cache
+C:\Users\seyma.cecen\source\repos\MetinDuzenlemeUygulamasi\MetinDuzenlemeUygulamasi\obj\Debug\MetinDuzenlemeUygulamasi.Form1.resources
+C:\Users\seyma.cecen\source\repos\MetinDuzenlemeUygulamasi\MetinDuzenlemeUygulamasi\obj\Debug\MetinDuzenlemeUygulamasi.Properties.Resources.resources
+C:\Users\seyma.cecen\source\repos\MetinDuzenlemeUygulamasi\MetinDuzenlemeUygulamasi\obj\Debug\MetinDuzenlemeUygulamasi.csproj.GenerateResource.cache
+C:\Users\seyma.cecen\source\repos\MetinDuzenlemeUygulamasi\MetinDuzenlemeUygulamasi\obj\Debug\MetinDuzenlemeUygulamasi.csproj.CoreCompileInputs.cache
+C:\Users\seyma.cecen\source\repos\MetinDuzenlemeUygulamasi\MetinDuzenlemeUygulamasi\obj\Debug\MetinDuzenlemeUygulamasi.exe
+C:\Users\seyma.cecen\source\repos\MetinDuzenlemeUygulamasi\MetinDuzenlemeUygulamasi\obj\Debug\MetinDuzenlemeUygulamasi.pdb
+C:\Users\Mustafa\Desktop\MetinDuzenlemeUygulamasi\MetinDuzenlemeUygulamasi\MetinDuzenlemeUygulamasi\bin\Debug\MetinDuzenlemeUygulamasi.exe.config
+C:\Users\Mustafa\Desktop\MetinDuzenlemeUygulamasi\MetinDuzenlemeUygulamasi\MetinDuzenlemeUygulamasi\bin\Debug\MetinDuzenlemeUygulamasi.exe
+C:\Users\Mustafa\Desktop\MetinDuzenlemeUygulamasi\MetinDuzenlemeUygulamasi\MetinDuzenlemeUygulamasi\bin\Debug\MetinDuzenlemeUygulamasi.pdb
+C:\Users\Mustafa\Desktop\MetinDuzenlemeUygulamasi\MetinDuzenlemeUygulamasi\MetinDuzenlemeUygulamasi\obj\Debug\MetinDuzenlemeUygulamasi.csproj.AssemblyReference.cache
+C:\Users\Mustafa\Desktop\MetinDuzenlemeUygulamasi\MetinDuzenlemeUygulamasi\MetinDuzenlemeUygulamasi\obj\Debug\MetinDuzenlemeUygulamasi.Form1.resources
+C:\Users\Mustafa\Desktop\MetinDuzenlemeUygulamasi\MetinDuzenlemeUygulamasi\MetinDuzenlemeUygulamasi\obj\Debug\MetinDuzenlemeUygulamasi.Properties.Resources.resources
+C:\Users\Mustafa\Desktop\MetinDuzenlemeUygulamasi\MetinDuzenlemeUygulamasi\MetinDuzenlemeUygulamasi\obj\Debug\MetinDuzenlemeUygulamasi.csproj.GenerateResource.cache
+C:\Users\Mustafa\Desktop\MetinDuzenlemeUygulamasi\MetinDuzenlemeUygulamasi\MetinDuzenlemeUygulamasi\obj\Debug\MetinDuzenlemeUygulamasi.csproj.CoreCompileInputs.cache
+C:\Users\Mustafa\Desktop\MetinDuzenlemeUygulamasi\MetinDuzenlemeUygulamasi\MetinDuzenlemeUygulamasi\obj\Debug\MetinDuzenlemeUygulamasi.exe
+C:\Users\Mustafa\Desktop\MetinDuzenlemeUygulamasi\MetinDuzenlemeUygulamasi\MetinDuzenlemeUygulamasi\obj\Debug\MetinDuzenlemeUygulamasi.pdb
+D:\Ders\2.Dönem\Görsel Programlamaya Giriş\hocanın uygulamaları\GorselApp\MetinDuzenlemeUygulamasi\MetinDuzenlemeUygulamasi\MetinDuzenlemeUygulamasi\bin\Debug\MetinDuzenlemeUygulamasi.exe.config
+D:\Ders\2.Dönem\Görsel Programlamaya Giriş\hocanın uygulamaları\GorselApp\MetinDuzenlemeUygulamasi\MetinDuzenlemeUygulamasi\MetinDuzenlemeUygulamasi\bin\Debug\MetinDuzenlemeUygulamasi.exe
+D:\Ders\2.Dönem\Görsel Programlamaya Giriş\hocanın uygulamaları\GorselApp\MetinDuzenlemeUygulamasi\MetinDuzenlemeUygulamasi\MetinDuzenlemeUygulamasi\bin\Debug\MetinDuzenlemeUygulamasi.pdb
+D:\Ders\2.Dönem\Görsel Programlamaya Giriş\hocanın uygulamaları\GorselApp\MetinDuzenlemeUygulamasi\MetinDuzenlemeUygulamasi\MetinDuzenlemeUygulamasi\obj\Debug\MetinDuzenlemeUygulamasi.csproj.AssemblyReference.cache
+D:\Ders\2.Dönem\Görsel Programlamaya Giriş\hocanın uygulamaları\GorselApp\MetinDuzenlemeUygulamasi\MetinDuzenlemeUygulamasi\MetinDuzenlemeUygulamasi\obj\Debug\MetinDuzenlemeUygulamasi.Form1.resources
+D:\Ders\2.Dönem\Görsel Programlamaya Giriş\hocanın uygulamaları\GorselApp\MetinDuzenlemeUygulamasi\MetinDuzenlemeUygulamasi\MetinDuzenlemeUygulamasi\obj\Debug\MetinDuzenlemeUygulamasi.Properties.Resources.resources
+D:\Ders\2.Dönem\Görsel Programlamaya Giriş\hocanın uygulamaları\GorselApp\MetinDuzenlemeUygulamasi\MetinDuzenlemeUygulamasi\MetinDuzenlemeUygulamasi\obj\Debug\MetinDuzenlemeUygulamasi.csproj.GenerateResource.cache
+D:\Ders\2.Dönem\Görsel Programlamaya Giriş\hocanın uygulamaları\GorselApp\MetinDuzenlemeUygulamasi\MetinDuzenlemeUygulamasi\MetinDuzenlemeUygulamasi\obj\Debug\MetinDuzenlemeUygulamasi.csproj.CoreCompileInputs.cache
+D:\Ders\2.Dönem\Görsel Programlamaya Giriş\hocanın uygulamaları\GorselApp\MetinDuzenlemeUygulamasi\MetinDuzenlemeUygulamasi\MetinDuzenlemeUygulamasi\obj\Debug\MetinDuzenlemeUygulamasi.exe
+D:\Ders\2.Dönem\Görsel Programlamaya Giriş\hocanın uygulamaları\GorselApp\MetinDuzenlemeUygulamasi\MetinDuzenlemeUygulamasi\MetinDuzenlemeUygulamasi\obj\Debug\MetinDuzenlemeUygulamasi.pdb

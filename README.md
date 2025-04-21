@@ -1,2 +1,2 @@
 # ilk-projelerim
-okulda ve udemy de aldığım kurslardan yaptığım ufak projeller
+Okulda ve udemy de aldığım kurslardan yaptığım ufak projeller
